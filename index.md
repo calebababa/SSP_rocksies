@@ -1,7 +1,5 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+In the words of Caleb the drunk: 
+> As long as I shall live, I shall stay *sober*. 
+<br> 
+
+How cool is this, I have a <b> website </b> now. 
